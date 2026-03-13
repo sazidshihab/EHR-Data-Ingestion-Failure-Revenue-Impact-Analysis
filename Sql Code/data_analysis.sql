@@ -1,3 +1,8 @@
+/*
+For data security concerns, I can not upload the full dataset !!
+*/
+
+
 create database augmedix_3;
 
 use augmedix_3;
