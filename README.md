@@ -4,12 +4,12 @@
 This project investigates missing Electronic Health Record (EHR) encounters that failed to upload from an EHR system into the main healthcare database. Using SQL analysis, the project identifies patterns causing ingestion failures and estimates their business impact.  
 
 Dataset ---------------- Summary  
-Metric	                 Value  
-Total EHR encounters	   6,612  
-Records in database    	6,374  
-Successfully uploaded	  6,330  
-Missing encounters	    282 
-Rejection rate	        4.26%  
+Metric ----------------- Value  
+Total EHR encounters --- 6,612  
+Records in database ---	6,374  
+Successfully uploaded	- 6,330  
+Missing encounters ----- 282 
+Rejection rate --------- 4.26%  
 
 ## Key Findings  
 Two main patterns caused encounter rejection:  
