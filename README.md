@@ -11,6 +11,9 @@ Successfully uploaded	- 6,330
 Missing encounters ----- 282 
 Rejection rate --------- 4.26%  
 
+### Live Dashboard:  
+https://saziddataalchemy.retool.com/embedded/public/74ca5e37-5844-4dfc-b996-b4d0f8941c03
+
 ## Key Findings  
 Two main patterns caused encounter rejection:  
 
