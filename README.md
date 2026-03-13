@@ -3,7 +3,7 @@
 ## Overview  
 This project investigates missing Electronic Health Record (EHR) encounters that failed to upload from an EHR system into the main healthcare database. Using SQL analysis, the project identifies patterns causing ingestion failures and estimates their business impact.  
 
-Dataset ---------------- Summary  
+### Dataset ---------------- Summary  
 Metric ----------------- Value  
 Total EHR encounters --- 6,612  
 Records in database ---	6,374  
