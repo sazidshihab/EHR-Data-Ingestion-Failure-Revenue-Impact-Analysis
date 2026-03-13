@@ -12,7 +12,9 @@ Missing encounters ----- 282
 Rejection rate --------- 4.26%  
 
 ### Live Dashboard:  
-https://saziddataalchemy.retool.com/embedded/public/74ca5e37-5844-4dfc-b996-b4d0f8941c03
+<h> click </h>
+<a> herf ="https://saziddataalchemy.retool.com/embedded/public/74ca5e37-5844-4dfc-b996-b4d0f8941c03", target="_blank" >
+</a>
 
 ## Key Findings  
 Two main patterns caused encounter rejection:  
