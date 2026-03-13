@@ -12,8 +12,8 @@ Missing encounters ----- 282
 Rejection rate --------- 4.26%  
 
 ### Live Dashboard:  
-<h> click </h>
-<a> herf ="https://saziddataalchemy.retool.com/embedded/public/74ca5e37-5844-4dfc-b996-b4d0f8941c03", target="_blank" >
+<h3> click </h3>
+<a href ="https://saziddataalchemy.retool.com/embedded/public/74ca5e37-5844-4dfc-b996-b4d0f8941c03", target="_blank" >
 </a>
 
 ## Key Findings  
